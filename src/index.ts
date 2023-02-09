@@ -1,5 +1,7 @@
+import hello from "./hello";
+
 function main() {
-  console.log("Hello, world!");
+  hello("World");
 }
 
 main();
