@@ -1,4 +1,4 @@
-import hello from "./hello";
+import hello from ".";
 import test from "ava";
 
 test("Says hello!", (t) => {
