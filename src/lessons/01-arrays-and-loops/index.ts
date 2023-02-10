@@ -20,7 +20,7 @@ function lessonArraysAndLoops() {
   // Arrays ALWAYS START COUNTING AT 0
   console.log("I have " + fruit.length + " fruit");
 
-  let brag = "I don't have";
+  let brag = "I have";
   for (let index = 0; index < fruit.length; index++) {
     // console.log("Loop count: ", index);
     // console.log(fruit[index]);
